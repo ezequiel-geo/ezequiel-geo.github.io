@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Geología y geotecnia"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
