@@ -11,9 +11,9 @@ redirect_from:
 
 Educación
 ======
-* Doctorado en Cs. Geológicas, Universidad de Buenos Aires, 2025 (esperado)
+* Doctorado en Ciencias Geológicas, Universidad de Buenos Aires, 2025 (esperado)
 * Especialización en Ingeniería Geotécnica, Universidad de Buenos Aires, 2023 (esperado)
-* Licenciatura en Cs. Geológicas, Universidad de Buenos Aires, 2021
+* Licenciatura en Ciencias Geológicas, Universidad de Buenos Aires, 2021
   
 Experiencia laboral
 ======
