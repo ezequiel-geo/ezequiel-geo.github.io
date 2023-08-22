@@ -18,7 +18,7 @@ Educación
 Experiencia laboral
 ======
 
-* 2022-actualidad: Geólogo Senior
+* 2022-actualidad: Geólogo Senior (Organismo Regulador de Seguridad de Presas)
   * Análisis de problemas geológicos-geotécnicos relativos a la seguridad de presas, embalses y obras complementarias.
   * Evaluación de estudios y proyectos.
   * Análisis de riesgo.
