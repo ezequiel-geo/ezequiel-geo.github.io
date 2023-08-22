@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Educación
 ======
-* Doc. en Cs. Geológicas, Universidad de Buenos Aires, 2025 (esperado)
-* Esp. en Ingeniería Geotécnica, Universidad de Buenos Aires, 2023 (esperado)
-* Lic. en Cs. Geológicas, Universidad de Buenos Aires, 2021
+* Doctorado en Cs. Geológicas, Universidad de Buenos Aires, 2025 (esperado)
+* Especialización en Ingeniería Geotécnica, Universidad de Buenos Aires, 2023 (esperado)
+* Licenciatura en Cs. Geológicas, Universidad de Buenos Aires, 2021
   
 Experiencia laboral
 ======
@@ -25,10 +25,7 @@ Experiencia laboral
   * Inspección de obra.
   * Modelo geológico-geotécnico.
 
-* 2021-2022: Geólogo de Inspección de Obra en Aña Cuá (IATASA - LATINOCONSULT - GRIMAUX - UTE)
-  
-Ampliación de la central hidroeléctrica Yacyretá en la margen izquierda del brazo Aña Cuá.
-
+* 2021-2022: Geólogo de Inspección de Obra en Aña Cuá (IATASA - LATINOCONSULT - GRIMAUX - UTE). Ampliación de la central hidroeléctrica Yacyretá en la margen izquierda del brazo Aña Cuá.
   * Control de investigaciones geotécnicas ejecutadas para las presas, casa de máquinas, etc.
   * Supervisión y control de la clasificación del macizo rocoso para fundaciones y para la estabilidad de taludes, de acuerdo a distintos sistemas de clasificación (RMR, SMR, GSI).
   * Control de la aptitud y volúmenes disponibles de materiales para núcleo de presa, filtros, protecciones y agregados para hormigones.
