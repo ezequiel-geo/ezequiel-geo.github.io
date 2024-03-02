@@ -12,7 +12,8 @@ redirect_from:
 Educación
 ======
 * Doctorado en Ciencias Geológicas - Universidad de Buenos Aires - 2025 (esperado)
-* Especialización en Ingeniería Geotécnica - Universidad de Buenos Aires - 2023 (esperado)
+* Especialización en Ingeniería Geotécnica - Universidad de Buenos Aires - 2024
+* Diplomatura en Sistemas de Información Geográfica (SIG) - Universidad de Buenos Aires - 2024
 * Licenciatura en Ciencias Geológicas - Universidad de Buenos Aires - 2021
   
 Experiencia laboral
