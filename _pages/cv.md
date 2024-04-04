@@ -11,10 +11,10 @@ redirect_from:
 
 Educación
 ======
-* Doctorado en Ciencias Geológicas - Universidad de Buenos Aires - 2026 (en curso)
-* Especialización en Ingeniería Geotécnica - Universidad de Buenos Aires - 2024
-* Diplomatura en Sistemas de Información Geográfica (SIG) - Universidad de Buenos Aires - 2024 (en curso)
-* Licenciatura en Ciencias Geológicas - Universidad de Buenos Aires - 2021
+* Doctorado en Ciencias Geológicas - Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires - 2026 (en curso)
+* Especialización en Ingeniería Geotécnica - Facultad de Ingeniería - Universidad de Buenos Aires - 2024
+* Diplomatura en Sistemas de Información Geográfica (SIG) - Facultad de Filosofía y Letras - Universidad de Buenos Aires - 2024 (en curso)
+* Licenciatura en Ciencias Geológicas - Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires - 2021
   
 Experiencia laboral
 ======
