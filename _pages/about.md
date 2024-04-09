@@ -10,7 +10,7 @@ redirect_from:
 
 Soy [Licenciado en Ciencias Geológicas](https://www.gl.fcen.uba.ar/index.php/academico/carrera-de-lic-en-cs-geologicas/) de la Facultad de Ciencias Exactas y Naturales (FCEN) de la Universidad de Buenos Aires (UBA). Mis intereses y principales actividades se han dado en la geología estructural y la geotecnia, con más de 10 años de experiencia en geología aplicada a obras de ingeniería civil y minera (presas, túneles, obras viales y ferroviarias, puentes, viaductos, etc.), estudios ambientales e hidrogeológicos.
   
-Soy [Especialista en Ingeniería Geotécnica](https://campusold.fi.uba.ar/course/view.php?id=3350) de la Facultad de Ingeniería de la UBA (FIUBA), con énfasis en la geotecnia numérica y análisis dinámicos; en particular, mi tesis final para obtener el título de especialista se enfocó en el modelado constitutivo y análisis de fenómenos de licuación dinámica en fundaciones de presas de materiales sueltos.
+Soy [Especialista en Ingeniería Geotécnica](https://campusposgrado.fi.uba.ar/course/view.php?id=314) de la Facultad de Ingeniería de la UBA (FIUBA), con énfasis en la geotecnia numérica y análisis dinámicos; en particular, mi tesis final para obtener el título de especialista se enfocó en el modelado constitutivo y análisis de fenómenos de licuación dinámica en fundaciones de presas de materiales sueltos.
 
 Además, estoy realizando el [Doctorado en Ciencias Geológicas](https://www.gl.fcen.uba.ar/index.php/academico/carrera-de-doctorado-en-cs-geol-gicas/) en la FCEN-UBA, con temas principales la geología estructural, geomecánica, reología, microtectónica y el modelado de la deformación. 
 
