@@ -12,7 +12,7 @@ Soy [Licenciado en Ciencias Geológicas](https://www.gl.fcen.uba.ar/index.php/ac
   
 Soy [Especialista en Ingeniería Geotécnica](https://campusposgrado.fi.uba.ar/course/view.php?id=314) de la Facultad de Ingeniería de la UBA (FIUBA), con énfasis en la geotecnia numérica y análisis dinámicos; en particular, mi tesis final para obtener el título de especialista se enfocó en el modelado constitutivo y análisis de fenómenos de licuación dinámica en fundaciones de presas de materiales sueltos.
 
-Además, estoy realizando el [Doctorado en Ciencias Geológicas](https://www.gl.fcen.uba.ar/index.php/academico/carrera-de-doctorado-en-cs-geol-gicas/) en la FCEN-UBA, con temas principales la geología estructural, geomecánica, reología, microtectónica y el modelado de la deformación. 
+Además, estoy realizando un [Doctorado en Ciencias Geológicas](https://www.gl.fcen.uba.ar/index.php/academico/carrera-de-doctorado-en-cs-geol-gicas/) en la FCEN-UBA, siendo los temas principales la geología estructural, geomecánica, reología, microtectónica y el modelado de la deformación. 
 
 Finalmente, y para continuar mi formación, estoy realizando una [Diplomatura en Sistemas de Información Geográfica (SIG)](http://transferencia.filo.uba.ar/trayectos/diplomatura-de-extensi%C3%B3n-universitaria-en-sistemas-de-informaci%C3%B3n-geogr%C3%A1fica-sig), dicatada por la Facultad de Filosofía y Letras (FFyL-UBA)
 
