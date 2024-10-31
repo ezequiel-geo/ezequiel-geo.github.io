@@ -58,6 +58,7 @@ Manejo de software
   
 Publicaciones y congresos destacados
 ======
+* Landetcheverry, F., Nervi, L., Pertierra, A., Heimbigner, N. y Martinez, E.. Prácticas habituales y marcos normativos internacionales del fracking en referencia a la inducción de sismos que puedan afectar a presas y embalses. 11º Congreso Argentino de Presas y Aprovechamientos Multipropósito. 2024. San Juan.
 * Martinez, E., Deus, R., Soto, J. y Nuñez Vera, J. Estudios geológicos- geotécnicos y tratamientos de estabilización de taludes de excavación de roca en el proyecto Aña Cuá, Yacyretá. 10º Congreso Argentino de Presas y Aprovechamientos Multipropósito. 2022. Río Negro.
 * Martinez, E. y Cruz, J. Estabilidad física y química del dique de relaves de Minera Alumbrera. VI EXPO PRODUCTIVA - Espacio Minero. 2019. Catamarca.
 * Martinez, E. y Chuchuy, P. Estabilidad física y química del dique de relaves de Minera Alumbrera. V EXPO PRODUCTIVA - Espacio Minero. 2018. Catamarca.
