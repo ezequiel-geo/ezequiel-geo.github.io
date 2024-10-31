@@ -14,7 +14,7 @@ Soy [Especialista en Ingeniería Geotécnica](https://campusposgrado.fi.uba.ar/c
 
 Además, estoy realizando un [Doctorado en Ciencias Geológicas](http://www.gl.fcen.uba.ar/index.php/academico/carrera-de-doctorado-en-cs-geol-gicas/) en la FCEN-UBA, siendo los temas principales la geología estructural, geomecánica, reología, microtectónica y el modelado de la deformación. 
 
-Finalmente, y para continuar mi formación, estoy realizando una [Diplomatura en Sistemas de Información Geográfica (SIG)](http://transferencia.filo.uba.ar/trayectos/diplomatura-de-extensi%C3%B3n-universitaria-en-sistemas-de-informaci%C3%B3n-geogr%C3%A1fica-sig), dictada por la Facultad de Filosofía y Letras (FFyL-UBA)
+Finalmente, y para continuar mi formación, realicé una [Diplomatura en Sistemas de Información Geográfica (SIG)](http://transferencia.filo.uba.ar/trayectos/diplomatura-de-extensi%C3%B3n-universitaria-en-sistemas-de-informaci%C3%B3n-geogr%C3%A1fica-sig), dictada por la Facultad de Filosofía y Letras (FFyL-UBA)
 
 
 
