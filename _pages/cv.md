@@ -12,6 +12,7 @@ redirect_from:
 Educación
 ======
 * Doctorado en Ciencias Geológicas - Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires - 2026 (en curso)
+* Maestría en Ciencia de Datos - Universidad de San Andrés - 2026 (en curso)
 * Especialización en Ingeniería Geotécnica - Facultad de Ingeniería - Universidad de Buenos Aires - 2024
 * Diplomatura en Sistemas de Información Geográfica (SIG) - Facultad de Filosofía y Letras - Universidad de Buenos Aires - 2024
 * Licenciatura en Ciencias Geológicas - Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires - 2021
@@ -52,12 +53,13 @@ Idiomas
 Manejo de software
 ======
 * Geología y geotecnia: PLAXIS, Surfer, Dips, Slide, Swedge, Global Mapper, QGIS
-* Lenguajes de programación: Python
+* Lenguajes de programación: Python, R
 * Dibujo y diseño: AutoCAD, AutoCAD Civil
-
   
 Publicaciones y congresos destacados
 ======
+* Martinez, E. y Sottile, M. Análisis del potencial de licuación de los materiales de fundación de una presa de materiales sueltos mediante métodos empíricos y numéricos. 27º Congreso Argentino de Mecánica de Suelos e Ingeniería Geotécnica. 2025. Chaco.
+* Martinez, E. y Oriolo, S. Características geomecánicas, estructurales y microtectónicas de las rocas del sistema de Ventania. 3º Congreso Argentino de Geología Aplicada a la Ingeniería y el Ambiente. 2025. Córdoba.
 * Landetcheverry, F., Nervi, L., Pertierra, A., Heimbigner, N. y Martinez, E.. Prácticas habituales y marcos normativos internacionales del fracking en referencia a la inducción de sismos que puedan afectar a presas y embalses. 11º Congreso Argentino de Presas y Aprovechamientos Multipropósito. 2024. San Juan.
 * Martinez, E., Deus, R., Soto, J. y Nuñez Vera, J. Estudios geológicos- geotécnicos y tratamientos de estabilización de taludes de excavación de roca en el proyecto Aña Cuá, Yacyretá. 10º Congreso Argentino de Presas y Aprovechamientos Multipropósito. 2022. Río Negro.
 * Martinez, E. y Cruz, J. Estabilidad física y química del dique de relaves de Minera Alumbrera. VI EXPO PRODUCTIVA - Espacio Minero. 2019. Catamarca.
